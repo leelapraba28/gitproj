@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-02-26T02:44:11Z" name="Surefire suite" finished-at="2025-02-26T02:44:11Z" duration-ms="17">
+    <groups>
+    </groups>
+    <test started-at="2025-02-26T02:44:11Z" name="Surefire test" finished-at="2025-02-26T02:44:11Z" duration-ms="17">
+      <class name="test.com.itexpert.CalculatorTest">
+        <test-method is-config="true" signature="setUpClass()[pri:0, instance:test.com.itexpert.CalculatorTest@33cb5951]" started-at="2025-02-25T21:44:11Z" name="setUpClass" finished-at="2025-02-25T21:44:11Z" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method is-config="true" signature="setUpMethod()[pri:0, instance:test.com.itexpert.CalculatorTest@33cb5951]" started-at="2025-02-25T21:44:11Z" name="setUpMethod" finished-at="2025-02-25T21:44:11Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method signature="testAdd()[pri:0, instance:test.com.itexpert.CalculatorTest@33cb5951]" started-at="2025-02-25T21:44:11Z" name="testAdd" finished-at="2025-02-25T21:44:11Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAdd -->
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:test.com.itexpert.CalculatorTest@33cb5951]" started-at="2025-02-25T21:44:11Z" name="tearDownMethod" finished-at="2025-02-25T21:44:11Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:test.com.itexpert.CalculatorTest@33cb5951]" started-at="2025-02-25T21:44:11Z" name="tearDownClass" finished-at="2025-02-25T21:44:11Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+        <test-method is-config="true" signature="setUpMethod()[pri:0, instance:test.com.itexpert.CalculatorTest@33cb5951]" started-at="2025-02-25T21:44:11Z" name="setUpMethod" finished-at="2025-02-25T21:44:11Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:test.com.itexpert.CalculatorTest@33cb5951]" started-at="2025-02-25T21:44:11Z" name="tearDownMethod" finished-at="2025-02-25T21:44:11Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method signature="testMul()[pri:0, instance:test.com.itexpert.CalculatorTest@33cb5951]" started-at="2025-02-25T21:44:11Z" name="testMul" finished-at="2025-02-25T21:44:11Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMul -->
+      </class> <!-- test.com.itexpert.CalculatorTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
